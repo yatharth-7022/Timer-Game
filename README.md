@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/timer-game.git
+    git clone https://github.com/yatharth-7022/Timer-Game.git
     ```
 2. Navigate to the project folder:
     ```bash
